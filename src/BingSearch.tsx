@@ -28,7 +28,7 @@ const BingSearch: React.FC = () => {
           {
             headers: {
               "Ocp-Apim-Subscription-Key":
-                "197f790b9cff4f558fad905ddd421227f13",
+                "YOUR-KEY-HERE",
             },
           }
         );
